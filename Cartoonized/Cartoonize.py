@@ -14,7 +14,6 @@ import torch.utils.data
 from torch.nn import functional as F
 
 import math
-import torch
 from torch.nn.parameter import Parameter
 from torch.nn.functional import pad
 from torch.nn.modules import Module
